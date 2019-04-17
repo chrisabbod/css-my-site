@@ -4,7 +4,16 @@ body {
     font-family: Merriweather, serif; /*Use Merriweather font but default to serif if there is an issue*/
 }
 
+.profile_image {
+    border-radius: 50%;
+}
+
+.computer_image {
+    border-radius: 50%;
+}
+
 h1 {
+    font-size: 562.5%; /* 16px = 100% = 1em */
     margin-top: 0;
     font-family: Sacramento, cursive
 }
